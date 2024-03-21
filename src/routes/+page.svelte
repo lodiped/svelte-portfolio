@@ -10,6 +10,5 @@
 	<div class="p-10">
 		<div class="bg-green-500 aspect-square m-20">Some 3D</div>
 		<p>Graphic Designer turned Web Developer.</p>
-		<p>Graphic Designer turned Web Developer.</p>
 	</div>
 </main>
